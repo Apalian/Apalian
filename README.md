@@ -14,7 +14,7 @@ Bienvenue sur mon profil GitHub! Je suis un étudiant s'éssaie aux nouvelles te
 ## 📫 Comment me contacter
 
 - [Email](mailto:colinlespilette@gmail.com)
-- [LinkedIn](www.linkedin.com/in/colin-lespilette)
+- [LinkedIn](https://www.linkedin.com/in/colin-lespilette)
 
 ## 📈 Statistiques GitHub
 
