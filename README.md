@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub! Je suis un étudiant s'éssaie aux nouvelles te
 <!--## 📈 Statistiques GitHub
 
 ![Statistiques GitHub de Apalian](https://github-readme-stats.vercel.app/api?username=Apalian&show_icons=true&theme=dark) 
--->>
+-->
 ## 🤝 Contributions
 
 Je suis toujours ouvert à la collaboration sur des projets intéressants et à la contribution au code source ouvert. N'hésitez pas à me contacter si vous souhaitez travailler ensemble!
