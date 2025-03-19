@@ -1,4 +1,4 @@
-# Bonjour, je suis Apalian! 👋
+# Bonjour, je suis Colin Lespilette! 👋
 
 Bienvenue sur mon profil GitHub! Je suis un étudiant s'éssaie aux nouvelles technologies. Vous trouverez ci-dessous un peu plus d'informations sur moi et certains des travaux auxquels je participe.
 
