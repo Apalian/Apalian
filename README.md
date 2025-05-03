@@ -6,7 +6,6 @@ Bienvenue sur mon profil GitHub! Je suis un étudiant s'éssaie aux nouvelles te
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
